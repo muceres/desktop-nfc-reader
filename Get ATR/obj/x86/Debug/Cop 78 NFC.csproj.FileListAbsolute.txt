@@ -1,0 +1,21 @@
+C:\Users\muceres\Desktop\H10391\ACR122 SDK  PC\Sample Codes\MS Visual C#.NET 2005\Device Programming\Get ATR\Get ATR\obj\x86\Debug\Cop 78 NFC.csproj.GenerateResource.Cache
+C:\Users\muceres\Desktop\H10391\ACR122 SDK  PC\Sample Codes\MS Visual C#.NET 2005\Device Programming\Get ATR\Get ATR\obj\x86\Debug\Cop 78 NFC.csprojResolveAssemblyReference.cache
+C:\Users\muceres\Desktop\H10391\ACR122 SDK  PC\Sample Codes\MS Visual C#.NET 2005\Device Programming\Get ATR\Get ATR\bin\x86\Debug\Cop 78 NFC.exe.config
+C:\Users\muceres\Desktop\H10391\ACR122 SDK  PC\Sample Codes\MS Visual C#.NET 2005\Device Programming\Get ATR\Get ATR\bin\x86\Debug\Cop 78 NFC.exe
+C:\Users\muceres\Desktop\H10391\ACR122 SDK  PC\Sample Codes\MS Visual C#.NET 2005\Device Programming\Get ATR\Get ATR\bin\x86\Debug\Cop 78 NFC.pdb
+C:\Users\muceres\Desktop\H10391\ACR122 SDK  PC\Sample Codes\MS Visual C#.NET 2005\Device Programming\Get ATR\Get ATR\obj\x86\Debug\Cop_78NFC.Properties.Resources.resources
+C:\Users\muceres\Desktop\H10391\ACR122 SDK  PC\Sample Codes\MS Visual C#.NET 2005\Device Programming\Get ATR\Get ATR\obj\x86\Debug\Cop 78 NFC.exe
+C:\Users\muceres\Desktop\H10391\ACR122 SDK  PC\Sample Codes\MS Visual C#.NET 2005\Device Programming\Get ATR\Get ATR\obj\x86\Debug\Cop 78 NFC.pdb
+C:\Users\muceres\Desktop\H10391\ACR122 SDK  PC\Sample Codes\MS Visual C#.NET 2005\Device Programming\Get ATR\Get ATR\obj\x86\Debug\Cop_78NFC.Cop78NFC.resources
+C:\Users\muceres\Desktop\Get ATR\Get ATR\bin\x86\Debug\Cop 78 NFC.exe.config
+C:\Users\muceres\Desktop\Get ATR\Get ATR\obj\x86\Debug\Cop 78 NFC.exe
+C:\Users\muceres\Desktop\Get ATR\Get ATR\obj\x86\Debug\Cop 78 NFC.pdb
+C:\Users\muceres\Desktop\Cop 78 NFC\Get ATR\bin\x86\Debug\Cop 78 NFC.exe.config
+C:\Users\muceres\Desktop\Cop 78 NFC\Get ATR\obj\x86\Debug\Cop 78 NFC.exe
+C:\Users\muceres\Desktop\Cop 78 NFC\Get ATR\obj\x86\Debug\Cop 78 NFC.pdb
+C:\Users\muceres\Desktop\Cop 78 NFC\Get ATR\bin\x86\Debug\Cop 78 NFC.exe
+C:\Users\muceres\Desktop\Cop 78 NFC\Get ATR\bin\x86\Debug\Cop 78 NFC.pdb
+C:\Users\muceres\Desktop\Cop 78 NFC\Get ATR\obj\x86\Debug\Cop 78 NFC.csprojResolveAssemblyReference.cache
+C:\Users\muceres\Desktop\Cop 78 NFC\Get ATR\obj\x86\Debug\Cop_78NFC.Cop78NFC.resources
+C:\Users\muceres\Desktop\Cop 78 NFC\Get ATR\obj\x86\Debug\Cop_78NFC.Properties.Resources.resources
+C:\Users\muceres\Desktop\Cop 78 NFC\Get ATR\obj\x86\Debug\Cop 78 NFC.csproj.GenerateResource.Cache

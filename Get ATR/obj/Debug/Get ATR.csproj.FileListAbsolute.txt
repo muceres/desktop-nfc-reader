@@ -1,0 +1,7 @@
+C:\Users\muceres\Desktop\H10391\ACR122 SDK  PC\Sample Codes\MS Visual C#.NET 2005\Device Programming\Get ATR\Get ATR\bin\Debug\Get ATR.exe
+C:\Users\muceres\Desktop\H10391\ACR122 SDK  PC\Sample Codes\MS Visual C#.NET 2005\Device Programming\Get ATR\Get ATR\bin\Debug\Get ATR.pdb
+C:\Users\muceres\Desktop\H10391\ACR122 SDK  PC\Sample Codes\MS Visual C#.NET 2005\Device Programming\Get ATR\Get ATR\obj\Debug\Get_ATR.GetATR.resources
+C:\Users\muceres\Desktop\H10391\ACR122 SDK  PC\Sample Codes\MS Visual C#.NET 2005\Device Programming\Get ATR\Get ATR\obj\Debug\Get_ATR.Properties.Resources.resources
+C:\Users\muceres\Desktop\H10391\ACR122 SDK  PC\Sample Codes\MS Visual C#.NET 2005\Device Programming\Get ATR\Get ATR\obj\Debug\Get ATR.csproj.GenerateResource.Cache
+C:\Users\muceres\Desktop\H10391\ACR122 SDK  PC\Sample Codes\MS Visual C#.NET 2005\Device Programming\Get ATR\Get ATR\obj\Debug\Get ATR.exe
+C:\Users\muceres\Desktop\H10391\ACR122 SDK  PC\Sample Codes\MS Visual C#.NET 2005\Device Programming\Get ATR\Get ATR\obj\Debug\Get ATR.pdb
