@@ -7,4 +7,4 @@ Basic NFC Desktop reader for windows connected with an API and used to connect s
 
 ## License
 
-MIT © [saxjst](https://saxjst.com)
+MIT © [muceres](https://forgetheweb.eu)
